@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://indelcor.github.io/sitemap.html.gz
+Sitemap: https://indelcor.github.io/app/sitemap.html.gz
+Sitemap: https://indelcor.github.io/assets/sitemap.html.gz
+Sitemap: https://indelcor.github.io/css/sitemap.html.gz
+Sitemap: https://indelcor.github.io/includes/sitemap.html.gz
+Sitemap: https://indelcor.github.io/item/sitemap.html.gz
+Sitemap: https://indelcor.github.io/src/sitemap.html.gz
